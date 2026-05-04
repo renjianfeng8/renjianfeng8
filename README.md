@@ -1,6 +1,6 @@
 <!-- 个人标题 -->
 <h1 align="center">Hi 👋, I'm 任建峰</h1>
-<h3 align="center">Java Backend Developer | 金融微服务架构爱好者</h3>
+<h3 align="center">Java Backend Developer | Java学习爱好者</h3>
 
 <!-- 技术栈徽章 -->
 <p align="center">
@@ -22,7 +22,7 @@
 <h3 align="left">🚀 我的核心项目</h3>
 <ul>
   <li>
-    <strong>金融中台微服务平台</strong>
+    <strong>金融理财服务平台</strong>
     <p>基于SpringCloud Alibaba搭建的9模块微服务架构，支撑用户、账户、产品、交易等核心金融业务，实现Nacos注册配置、OpenFeign远程调用、JWT认证、Elasticsearch全文检索等功能。</p>
   </li>
 </ul>
