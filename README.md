@@ -39,12 +39,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renjianfeng8&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renjianfeng8&theme=radical&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renjianfeng8&layout=compact&theme=radical&hide_border=true" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renjianfeng8&theme=radical&hide_border=true" />
 </p>
 
 ---
